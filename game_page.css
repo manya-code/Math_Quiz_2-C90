@@ -1,0 +1,52 @@
+h2
+
+{
+color:darkblue;
+font-size: 35;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body
+{
+    background-color: rgb(255, 225, 185);
+
+}
+
+
+
+    h4
+    {
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+
+  label
+  {
+font-size: medium;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+color:cadetblue;
+  }
+
+  button
+  {
+      font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+      height: 70px;
+      width:100px;
+      color:darkblue !important;
+      margin-top: 30px;
+      font-size: 45px !important;
+      background-color: lightblue !important;}
+       
+  input
+  {
+      width:35% !important;
+  }
+
+  #output
+  {
+      background-color: antiquewhite;
+      border-radius: 10px;
+      border-top: 10px solid #aa4465;
+      padding:10px;
+      float:none;
+      text-align:center;
+  }
